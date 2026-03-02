@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "決別の唄",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2026-03-02T05:18:32.410605Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "決別の唄",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_決別の唄_Tani_Yuuki.txt"
+    }
+  ]
+}
